@@ -1,2 +1,2 @@
 # Remote-and-Locally-Networked-database-synchronization
-This allows sync of both locally networked Sql server database and any remote server mysql database using Maven and own created php api. This is very good for production if you want your systems to easily integrate, for example your desktop applications can easily integrate with hosted both dynamic or static websites and android applications.
+This allows sync of both locally networked Sql server database and any remote server mysql database using Maven and own created php api. This is best for production systems or appliactions, if you want your systems to easily integrate, for example your desktop applications can easily integrate with hosted both dynamic or static websites and android applications.
